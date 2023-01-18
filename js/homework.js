@@ -24,7 +24,7 @@ for (let i = 0; i < exerciseOneArr.length - 1; i++) {
   if (exerciseOneArr[i] + 1 !== exerciseOneArr[i + 1]) {
     console.log(i + 1);
   }
-}
+};
 
 //--------------------------------------------------------//
 
@@ -61,7 +61,7 @@ for (let i = 0; i < numbers1.length; i++) {
     sum1 += numbers1[i];
     // console.log(sum1);
   }
-}
+};
 console.log(sum1);
 
 // Second Array //
@@ -76,7 +76,7 @@ for (let i = 0; i < numbers2.length; i++) {
     sum2 += numbers2[i];
     // console.log(sum2);
   }
-}
+};
 console.log(sum2);
 
 console.log("---------------------------------");
